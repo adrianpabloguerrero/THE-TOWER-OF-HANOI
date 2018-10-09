@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\escena.o
+./release\Disco.o
+./release\movimientos.o
+./release\dialog.o
+./release\dialog2.o
+./release\qrc_Imagenes.o
+./release\moc_mainwindow.o
+./release\moc_dialog.o
+./release\moc_dialog2.o
+);

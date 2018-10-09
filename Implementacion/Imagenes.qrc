@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagenes/torre.png</file>
+        <file>Imagenes/fondo.png</file>
+        <file>Imagenes/disco1.png</file>
+        <file>Imagenes/disco2.png</file>
+        <file>Imagenes/disco3.png</file>
+        <file>Imagenes/disco4.png</file>
+        <file>Imagenes/disco5.png</file>
+        <file>Imagenes/disco6.png</file>
+        <file>Imagenes/disco7.png</file>
+        <file>Imagenes/disco8.png</file>
+        <file>Imagenes/proximo.png</file>
+        <file>Imagenes/Rehacer.png</file>
+        <file>Imagenes/Anterior.png</file>
+        <file>Imagenes/UNICEN.png</file>
+    </qresource>
+</RCC>
